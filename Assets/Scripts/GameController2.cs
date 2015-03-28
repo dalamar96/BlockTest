@@ -15,7 +15,7 @@ public class GameController2 : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void FixedUpdate () {
+	void Update () {
 		scoreTextObject.text = "Score: " + scoreValue.ToString ();
 		scoreTextObject.text += "\n";
 		scoreTextObject.text += "Shots: " + shotsFired.ToString ();
