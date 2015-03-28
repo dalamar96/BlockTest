@@ -14,5 +14,5 @@ I have created a wall of bricks and the shooter (shooting from the camera in the
 ## Things to be done or thinking out loud
 
 - Change UI to be 3D in the world so you have to look at it to see it rather than being attached to the camera as it is in V1
+
 - Add a cannon under the camera to shoot from rather then from the center of the cannon (will allow me to test meshes in Unity from Blender as well)
-- 
